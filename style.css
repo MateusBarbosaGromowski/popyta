@@ -39,15 +39,6 @@ header a {
 	margin-top: 10px;
 }
 
-footer {
-	text-align: center;
-	background-color: grey;
-	padding: 10px;
-	color: white;
-	/*position: fixed;*/
-
-}
-
 main {
 	padding: 50px;
 	display: flex;
@@ -56,10 +47,11 @@ main {
 
 ul {
 	text-align: justify;
-	width: 300px;
+	width: 17vw;
 	color: white;
 	background-color: #280a1733;
-	padding: 20px;
+	padding: 25px;
 	border-radius: 25px;
 	margin: 10px;
+	font-size: 1vw;
 }

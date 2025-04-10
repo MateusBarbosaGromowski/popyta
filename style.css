@@ -5,7 +5,7 @@
 
 body {
 	font-family: arial, sans-serif;
-	background: black url('fundo.png') no-repeat center center;
+	background: black url('fundo.png') no-repeat center fixed;
 }
 
 header {
@@ -25,7 +25,7 @@ header p {
 }
 
 header a {
-	font-size:0.6em;
+	font-size: 4vh;
 	border-style: solid;
 	border-top-width: 3px;
 	border-right-width: 3px;

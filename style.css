@@ -39,6 +39,10 @@ header a {
 	margin-top: 10px;
 }
 
+header h1 {
+	font-size: 17vh;
+}
+
 main {
 	padding: 50px;
 	display: flex;

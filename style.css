@@ -1,0 +1,65 @@
+* {
+	margin: 0px;
+	padding: 0;
+}
+
+body {
+	font-family: arial, sans-serif;
+	background: black url('fundo.png') no-repeat center center;
+}
+
+header {
+	text-align: center;
+	text-transform: uppercase;
+	padding: 20px;
+	font-size: 4em;
+	color: white;
+
+}
+
+header p {
+	font-size: 0.5em;
+	text-transform: none;
+	color: white;
+
+}
+
+header a {
+	font-size:0.6em;
+	border-style: solid;
+	border-top-width: 3px;
+	border-right-width: 3px;
+	border-bottom-width: 3px;
+	border-left-width: 3px;
+	border: 5px, white, solid;
+	border-color: white;
+	padding: 10px;
+	text-decoration: none;
+	color: white;
+	margin-top: 10px;
+}
+
+footer {
+	text-align: center;
+	background-color: grey;
+	padding: 10px;
+	color: white;
+	/*position: fixed;*/
+
+}
+
+main {
+	padding: 50px;
+	display: flex;
+	justify-content: center;
+}
+
+ul {
+	text-align: justify;
+	width: 300px;
+	color: white;
+	background-color: #280a1733;
+	padding: 20px;
+	border-radius: 25px;
+	margin: 10px;
+}
